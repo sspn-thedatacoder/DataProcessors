@@ -12,7 +12,7 @@ Built with Eclipse Neon
 
 Additionally to play around with Hadoop  
 Hadoop runs in local mode without any more configuration in v2.9, assuming you have JAVA installed and JAVA HOME Setup  
-I am using Java 1.8 SE on MacOSX El Capitan.  
+Currently using Java 1.8 SE.  
 
 
 You can try out Hadoop commands from CLI  
